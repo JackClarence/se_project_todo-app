@@ -1,14 +1,16 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A very simple to-do app that allows for addition and removal of tasks. 
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+It allows for addition and removal of tasks in a graphical user interface, setting of dates for the tasks, and selection of completion status.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+HTML, CSS, and JavaScript were all used, utilizing exporting and importing of functions. 
+
+![Example of the new task modal](./images/new-task-modal.png)
 
 ## Deployment
 
