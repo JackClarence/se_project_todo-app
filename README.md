@@ -17,3 +17,4 @@ HTML, CSS, and JavaScript were all used, utilizing exporting and importing of fu
 This project is deployed on GitHub Pages:
 
 - [Deployment Link](https://jackclarence.github.io/se_project_todo-app/)
+- [Video Link](https://drive.google.com/file/d/14myvD0-4-V5SygUmJZx9sw_DjWesChEn/view?usp=sharing)
